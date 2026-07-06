@@ -13,4 +13,4 @@ while continuar == "sí" or continuar == "si":
     # Preguntamos al usuario si desea seguir para actualizar la condición
     continuar = input("¿Quieres añadir otra tarea? (si/no): ")
 
-print("Programa finalizado. Tus tareas guardadas son:", lista_de_tareas)
+print("EL Programa ha finalizado. Tus tareas guardadas son:", lista_de_tareas)
