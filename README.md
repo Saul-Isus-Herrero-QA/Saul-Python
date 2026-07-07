@@ -278,15 +278,11 @@ Siguiendo [Semantic Versioning](https://semver.org/):
 
 Versión actual: `2.1.0`
 
-## 📄 Licencia
-
-Este proyecto está licenciado bajo MIT. Ver [LICENSE](LICENSE) para más detalles.
-
 ## 👤 Autor
 
 **Saul**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: https://github.com/Saul-Isus-Herrero-QA/
+- Email: saul.isus.herrero@gmail.com
 
 ## 🤝 Contribuciones
 
