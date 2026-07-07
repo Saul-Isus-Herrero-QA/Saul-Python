@@ -9,7 +9,7 @@ description = "Sistema profesional de gestión de tareas con SOLID y Clean Code"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Saul", email = "your.email@example.com"}
+    {name = "Saul", email = "saul.isus.herrerol@gmail.com"}
 ]
 requires-python = ">=3.9"
 keywords = ["tasks", "todo", "cli", "management"]
@@ -29,9 +29,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/task-manager"
-Repository = "https://github.com/yourusername/task-manager.git"
-Issues = "https://github.com/yourusername/task-manager/issues"
+Homepage = "https://github.com/Saul-Isus-Herrero-QA/task-manager"
+Repository = "https://github.com/Saul-Isus-Herrero-QA/task-manager.git"
+Issues = "https://github.com/Saul-Isus-Herrero-QA/task-manager/issues"
 
 [project.scripts]
 task-manager = "task_manager.main:main"

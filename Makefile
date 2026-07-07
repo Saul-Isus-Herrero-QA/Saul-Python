@@ -55,8 +55,8 @@ pre-commit:
 
 # Workflow completo
 all: install lint test type-check
-	@echo "✅ Workflow completado exitosamente"
+	@echo "Workflow completado exitosamente"
 
 # CI/CD local
 ci: clean install-dev lint test-cov type-check
-	@echo "✅ CI pipeline completado"
+	@echo "CI pipeline completado"

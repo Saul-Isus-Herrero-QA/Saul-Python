@@ -10,10 +10,10 @@ logger = logging.getLogger(__name__)
 
 class TaskManager:
     """
-    Gestor de tareas empresarial.
+    Gestor de tareas.
 
     Gestiona el ciclo de vida completo de tareas con validación,
-    logging y manejo robusto de errores.
+    logging y manejo de errores.
 
     Attributes:
         _tasks: Lista interna de tareas como strings.

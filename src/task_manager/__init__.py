@@ -1,8 +1,8 @@
-"""Task Manager - Aplicación profesional de gestión de tareas."""
+"""Task Manager"""
 
 __version__ = "2.1.0"
 __author__ = "Saul"
-__description__ = "Sistema profesional de gestión de tareas con SOLID y Clean Code"
+__description__ = "Sistema de gestión de tareas con SOLID y Clean Code"
 
 from .cli import CLIApplication
 from .exceptions import (

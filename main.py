@@ -30,7 +30,7 @@ def main() -> None:
 
     except Exception as e:
         logger.exception(f"Error crítico en main: {e}")
-        print(f"❌ Error crítico: {e}")
+        print(f"Error crítico: {e}")
         sys.exit(1)
 
     finally:

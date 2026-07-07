@@ -1,7 +1,7 @@
 from typing import List
 
 class TaskManager:
-    """Clase de negocio encargada de gestionar el ciclo de vida de las tareas."""
+    """Clase encargada de gestionar el ciclo de vida de las tareas."""
     
     def __init__(self) -> None:
         self._tasks: List[str] = []
@@ -43,7 +43,7 @@ class CLIApplication:
 
     def show_welcome(self) -> None:
         print("====================================")
-        print("       GESTOR DE TAREAS v2.0        ")
+        print("       GESTOR DE TAREAS             ")
         print("====================================")
         print("Bienvenido a tu sistema de backend.\n")
 
