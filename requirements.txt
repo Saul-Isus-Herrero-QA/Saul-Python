@@ -1,0 +1,20 @@
+# Project dependencies
+
+# Core
+# (no external dependencies needed for core functionality)
+
+# Development & Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+black==23.12.1
+flake8==6.1.0
+mypy==1.8.0
+pre-commit==3.6.0
+isort==5.13.2
+
+# Documentation
+sphinx==7.2.6
+sphinx-rtd-theme==2.0.0
+
+# Linting & Code Quality
+pylint==3.0.3
