@@ -1,21 +1,20 @@
-## Descripción
-Task Manager es un gestor de tareas de línea de comandos desarrollado con arquitectura limpia, logging centralizado, manejo robusto de errores y una suite completa de tests unitarios.
+## Overview
+Task Manager is a robust command-line interface (CLI) application engineered using Clean Architecture principles. It features centralized logging, comprehensive error handling, and a rigorous suite of unit tests.
 
-## Stack
-**Lenguaje**: Python 3.9+
-**Editor**: Visual Studio Code
+## Tech Stack & Tools
+* **Language:** Python 3.9+
+* **IDE:** Visual Studio Code
 
-### Desarrollo
-- **Testing**: pytest 7.4.3
-- **Cobertura**: pytest-cov 4.1.0
-- **Linting**: flake8 6.1.0
-- **Formateo**: black 23.12.1
-- **Type Checking**: mypy 1.8.0
-- **Pre-commit**: pre-commit 3.6.0
+### Development & Quality Assurance
+* **Testing Framework:** pytest 7.4.3
+* **Code Coverage:** pytest-cov 4.1.0
+* **Linting:** flake8 6.1.0
+* **Code Formatting:** black 23.12.1
+* **Static Type Checking:** mypy 1.8.0
+* **Git Hooks:** pre-commit 3.6.0
 
-## Autor
+## Author
 
 **Saul**
-- **GitHub:** https://github.com/Saul-Isus-Herrero-QA/
-- **Email:** saul.isus.herrero@gmail.com
-
+* **GitHub:** https://github.com/Saul-Isus-Herrero-QA/
+* **Email:** saul.isus.herrero@gmail.com
